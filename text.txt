@@ -1,0 +1,400 @@
+1. Minecraft
+
+Id: 1
+Name: Minecraft
+Genre: Sandbox/Simulation
+Price: $29.99 (Java & Bedrock Edition)
+ReleaseDate: 2011-11-18
+ImageURI: "https://example.com/minecraft.jpg" (Placeholder)
+2. Grand Theft Auto V
+
+Id: 2
+Name: Grand Theft Auto V
+Genre: Action/Adventure
+Price: $29.99
+ReleaseDate: 2013-09-17
+ImageURI: "https://example.com/gtav.jpg" (Placeholder)
+3. Tetris (Various versions)
+
+Id: 3
+Name: Tetris
+Genre: Puzzle
+Price: Varies (often available on mobile, consoles)
+ReleaseDate: 1984-06-06 (Original)
+ImageURI: "https://example.com/tetris.jpg" (Placeholder)
+4. Wii Sports
+
+Id: 4
+Name: Wii Sports
+Genre: Sports/Racing
+Price: (Originally bundled with Wii)
+ReleaseDate: 2006-11-19
+ImageURI: "https://example.com/wiisports.jpg" (Placeholder)
+5. PUBG: Battlegrounds
+
+Id: 5
+Name: PUBG: Battlegrounds
+Genre: Multiplayer/Online
+Price: Free-to-play (PC/Console)
+ReleaseDate: 2017-12-20
+ImageURI: "https://example.com/pubg.jpg" (Placeholder)
+6. Mario Kart 8 Deluxe
+
+Id: 6
+Name: Mario Kart 8 Deluxe
+Genre: Sports/Racing
+Price: $59.99
+ReleaseDate: 2017-04-28
+ImageURI: "https://example.com/mariokart8dx.jpg" (Placeholder)
+7. Red Dead Redemption 2
+
+Id: 7
+Name: Red Dead Redemption 2
+Genre: Action/Adventure
+Price: $59.99
+ReleaseDate: 2018-10-26
+ImageURI: "https://example.com/rdr2.jpg" (Placeholder)
+8. Super Mario Bros.
+
+Id: 8
+Name: Super Mario Bros.
+Genre: Action/Adventure
+Price: Varies (Virtual Console, Nintendo Switch Online)
+ReleaseDate: 1985-09-13
+ImageURI: "https://example.com/smb.jpg" (Placeholder)
+9. The Witcher 3: Wild Hunt
+
+Id: 9
+Name: The Witcher 3: Wild Hunt
+Genre: RPG
+Price: $39.99
+ReleaseDate: 2015-05-19
+ImageURI: "https://example.com/witcher3.jpg" (Placeholder)
+10. Overwatch 2
+
+Id: 10
+Name: Overwatch 2
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2022-10-04
+ImageURI: "https://example.com/overwatch2.jpg" (Placeholder)
+11. Cyberpunk 2077
+
+Id: 11
+Name: Cyberpunk 2077
+Genre: RPG
+Price: $59.99
+ReleaseDate: 2020-12-10
+ImageURI: "https://example.com/cyberpunk2077.jpg" (Placeholder)
+12. Elden Ring
+
+Id: 12
+Name: Elden Ring
+Genre: Action/Adventure
+Price: $59.99
+ReleaseDate: 2022-02-25
+ImageURI: "https://example.com/eldenring.jpg" (Placeholder)
+13. The Legend of Zelda: Breath of the Wild
+
+Id: 13
+Name: The Legend of Zelda: Breath of the Wild
+Genre: Action/Adventure
+Price: $59.99
+ReleaseDate: 2017-03-03
+ImageURI: "https://example.com/botw.jpg" (Placeholder)
+14. The Elder Scrolls V: Skyrim
+
+Id: 14
+Name: The Elder Scrolls V: Skyrim
+Genre: RPG
+Price: $39.99 (Special Edition)
+ReleaseDate: 2011-11-11
+ImageURI: "https://example.com/skyrim.jpg" (Placeholder)
+15. Animal Crossing: New Horizons
+
+Id: 15
+Name: Animal Crossing: New Horizons
+Genre: Simulation
+Price: $59.99
+ReleaseDate: 2020-03-20
+ImageURI: "https://example.com/acnh.jpg" (Placeholder)
+16. Call of Duty: Modern Warfare (2019)
+
+Id: 16
+Name: Call of Duty: Modern Warfare
+Genre: Multiplayer/Online
+Price: $59.99
+ReleaseDate: 2019-10-25
+ImageURI: "https://example.com/codmw.jpg" (Placeholder)
+17. Fortnite
+
+Id: 17
+Name: Fortnite
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2017-07-25
+ImageURI: "https://example.com/fortnite.jpg" (Placeholder)
+18. League of Legends
+
+Id: 18
+Name: League of Legends
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2009-10-27
+ImageURI: "https://example.com/lol.jpg" (Placeholder)
+19. Valorant
+
+Id: 19
+Name: Valorant
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2020-06-02
+ImageURI: "https://example.com/valorant.jpg" (Placeholder)
+20. Apex Legends
+
+Id: 20
+Name: Apex Legends
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2019-02-04
+ImageURI: "https://example.com/apex.jpg" (Placeholder)
+21. Counter-Strike 2
+
+Id: 21
+Name: Counter-Strike 2
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2023-09-27
+ImageURI: "https://example.com/cs2.jpg" (Placeholder)
+22. Roblox
+
+Id: 22
+Name: Roblox
+Genre: Sandbox/Multiplayer
+Price: Free-to-play
+ReleaseDate: 2006-09-01
+ImageURI: "https://example.com/roblox.jpg" (Placeholder)
+23. FIFA 25 (EA Sports FC 25)
+
+Id: 23
+Name: EA Sports FC 25
+Genre: Sports/Racing
+Price: ~$69.99 (Estimated)
+ReleaseDate: 2024-09-27 (Estimated)
+ImageURI: "https://example.com/eafc25.jpg" (Placeholder)
+24. The Sims 4
+
+Id: 24
+Name: The Sims 4
+Genre: Simulation
+Price: Free-to-play (Base Game)
+ReleaseDate: 2014-09-02
+ImageURI: "https://example.com/sims4.jpg" (Placeholder)
+25. Doom Eternal
+
+Id: 25
+Name: Doom Eternal
+Genre: Action/Adventure
+Price: $39.99
+ReleaseDate: 2020-03-20
+ImageURI: "https://example.com/doometernal.jpg" (Placeholder)
+26. God of War (2018)
+
+Id: 26
+Name: God of War
+Genre: Action/Adventure
+Price: $39.99
+ReleaseDate: 2018-04-20
+ImageURI: "https://example.com/gow2018.jpg" (Placeholder)
+27. Horizon Zero Dawn
+
+Id: 27
+Name: Horizon Zero Dawn
+Genre: Action/Adventure
+Price: $49.99
+ReleaseDate: 2017-02-28
+ImageURI: "https://example.com/hzd.jpg" (Placeholder)
+28. Control
+
+Id: 28
+Name: Control
+Genre: Action/Adventure
+Price: $29.99
+ReleaseDate: 2019-08-27
+ImageURI: "https://example.com/control.jpg" (Placeholder)
+29. Hades
+
+Id: 29
+Name: Hades
+Genre: Action/Adventure
+Price: $24.99
+ReleaseDate: 2020-09-17
+ImageURI: "https://example.com/hades.jpg" (Placeholder)
+30. Disco Elysium - The Final Cut
+
+Id: 30
+Name: Disco Elysium - The Final Cut
+Genre: RPG
+Price: $39.99
+ReleaseDate: 2019-10-15 (Original)
+ImageURI: "https://example.com/discoelysium.jpg" (Placeholder)
+31. Stardew Valley
+
+Id: 31
+Name: Stardew Valley
+Genre: Simulation
+Price: $14.99
+ReleaseDate: 2016-02-26
+ImageURI: "https://example.com/stardewvalley.jpg" (Placeholder)
+32. Celeste
+
+Id: 32
+Name: Celeste
+Genre: Action/Adventure
+Price: $19.99
+ReleaseDate: 2018-01-25
+ImageURI: "https://example.com/celeste.jpg" (Placeholder)
+33. Hollow Knight
+
+Id: 33
+Name: Hollow Knight
+Genre: Action/Adventure
+Price: $14.99
+ReleaseDate: 2017-02-24
+ImageURI: "https://example.com/hollowknight.jpg" (Placeholder)
+34. Portal 2
+
+Id: 34
+Name: Portal 2
+Genre: Action/Adventure
+Price: $9.99
+ReleaseDate: 2011-04-19
+ImageURI: "https://example.com/portal2.jpg" (Placeholder)
+35. Terraria
+
+Id: 35
+Name: Terraria
+Genre: Sandbox/Action
+Price: $9.99
+ReleaseDate: 2011-05-16
+ImageURI: "https://example.com/terraria.jpg" (Placeholder)
+36. Factorio
+
+Id: 36
+Name: Factorio
+Genre: Strategy/Simulation
+Price: $35.00
+ReleaseDate: 2020-08-14
+ImageURI: "https://example.com/factorio.jpg" (Placeholder)
+37. RimWorld
+
+Id: 37
+Name: RimWorld
+Genre: Strategy/Simulation
+Price: $34.99
+ReleaseDate: 2018-10-17
+ImageURI: "https://example.com/rimworld.jpg" (Placeholder)
+38. Microsoft Flight Simulator
+
+Id: 38
+Name: Microsoft Flight Simulator
+Genre: Simulation
+Price: $59.99
+ReleaseDate: 2020-08-18
+ImageURI: "https://example.com/msfs.jpg" (Placeholder)
+39. Civilization VI
+
+Id: 39
+Name: Civilization VI
+Genre: Strategy/Simulation
+Price: $59.99
+ReleaseDate: 2016-10-21
+ImageURI: "https://example.com/civ6.jpg" (Placeholder)
+40. Age of Empires IV
+
+Id: 40
+Name: Age of Empires IV
+Genre: Strategy/Simulation
+Price: $59.99
+ReleaseDate: 2021-10-28
+ImageURI: "https://example.com/aoe4.jpg" (Placeholder)
+41. Rocket League
+
+Id: 41
+Name: Rocket League
+Genre: Sports/Racing
+Price: Free-to-play
+ReleaseDate: 2015-07-07
+ImageURI: "https://example.com/rocketleague.jpg" (Placeholder)
+42. Forza Horizon 5
+
+Id: 42
+Name: Forza Horizon 5
+Genre: Sports/Racing
+Price: $59.99
+ReleaseDate: 2021-11-09
+ImageURI: "https://example.com/fh5.jpg" (Placeholder)
+43. Gran Turismo 7
+
+Id: 43
+Name: Gran Turismo 7
+Genre: Sports/Racing
+Price: $69.99
+ReleaseDate: 2022-03-04
+ImageURI: "https://example.com/gt7.jpg" (Placeholder)
+44. Dota 2
+
+Id: 44
+Name: Dota 2
+Genre: Multiplayer/Online
+Price: Free-to-play
+ReleaseDate: 2013-07-09
+ImageURI: "https://example.com/dota2.jpg" (Placeholder)
+45. Final Fantasy XIV
+
+Id: 45
+Name: Final Fantasy XIV
+Genre: Multiplayer/Online (MMORPG)
+Price: Subscription-based (with free trial)
+ReleaseDate: 2013-08-27 (A Realm Reborn)
+ImageURI: "https://example.com/ffxiv.jpg" (Placeholder)
+46. World of Warcraft
+
+Id: 46
+Name: World of Warcraft
+Genre: Multiplayer/Online (MMORPG)
+Price: Subscription-based
+ReleaseDate: 2004-11-23
+ImageURI: "https://example.com/wow.jpg" (Placeholder)
+47. Destiny 2
+
+Id: 47
+Name: Destiny 2
+Genre: Multiplayer/Online
+Price: Free-to-play (Base Game)
+ReleaseDate: 2017-09-06
+ImageURI: "https://example.com/destiny2.jpg" (Placeholder)
+48. Baldur's Gate 3
+
+Id: 48
+Name: Baldur's Gate 3
+Genre: RPG
+Price: $59.99
+ReleaseDate: 2023-08-03
+ImageURI: "https://example.com/bg3.jpg" (Placeholder)
+49. Resident Evil 4 Remake
+
+Id: 49
+Name: Resident Evil 4 Remake
+Genre: Action/Adventure
+Price: $59.99
+ReleaseDate: 2023-03-24
+ImageURI: "https://example.com/re4remake.jpg" (Placeholder)
+50. Helldivers 2
+
+Id: 50
+Name: Helldivers 2
+Genre: Multiplayer/Online
+Price: $39.99
+ReleaseDate: 2024-02-08
+ImageURI: "https://example.com/helldivers2.jpg" (Placeholder)
